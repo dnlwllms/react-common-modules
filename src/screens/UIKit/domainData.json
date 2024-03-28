@@ -1,0 +1,353 @@
+{
+  "domains": [
+    {
+      "path": "/components/overview",
+      "children": [
+        {
+          "path": "/components/actions",
+          "children": [
+            {
+              "path": "/components/actions/button",
+              "children": [],
+              "id": "ad596e7c-1d4d-498f-a6da-9a9282671cd6",
+              "title": "Button",
+              "order": 0
+            },
+            {
+              "path": "/components/actions/collapse",
+              "children": [],
+              "id": "b54c36d9-fd2e-4964-993d-4dc452903151",
+              "title": "Collapse",
+              "order": 1
+            },
+            {
+              "path": "/components/actions/dropdown",
+              "children": [],
+              "id": "eca967be-9830-4688-af30-fbba5438ba4d",
+              "title": "Dropdown",
+              "order": 2
+            },
+            {
+              "path": "/components/actions/icon-button",
+              "children": [],
+              "id": "ed37f751-fb19-4ccd-be2a-0a453f9b8953",
+              "title": "Icon Button",
+              "order": 3
+            },
+            {
+              "path": "/components/actions/text-button",
+              "children": [],
+              "id": "f6035aa0-17f3-4494-8877-7f24283d9497",
+              "title": "Text Button",
+              "order": 4
+            },
+            {
+              "path": "/components/actions/menu",
+              "children": [],
+              "id": "9ad7c560-d238-4d1b-b32e-56fc9904d108",
+              "title": "Menu",
+              "order": 5
+            },
+            {
+              "path": "/components/actions/breadcrumb",
+              "children": [],
+              "id": "92437fc0-c46e-4c0c-b80d-cf95a514b376",
+              "title": "Breadcrumb",
+              "order": 6
+            },
+            {
+              "path": "/components/actions/circle-icon-button",
+              "children": [],
+              "id": "f0596470-49fd-4fcd-9abc-108bd45fdbf6",
+              "title": "CircleIconButton",
+              "order": 7
+            }
+          ],
+          "id": "47c245b7-20da-429b-80cd-05af5483da2c",
+          "title": "Actions",
+          "order": 1
+        },
+        {
+          "path": "/components/feedback",
+          "children": [
+            {
+              "path": "/components/feedback/toast",
+              "children": [],
+              "id": "3e3b311e-9435-4224-8e05-b65cd0a8ddb6",
+              "title": "Toast",
+              "order": 0
+            },
+            {
+              "path": "/components/feedback/badge",
+              "children": [],
+              "id": "6c682c06-70e0-4bb9-9068-3c2289f15202",
+              "title": "Badge",
+              "order": 1
+            },
+            {
+              "path": "/components/feedback/modal",
+              "children": [],
+              "id": "a912bdc1-525e-4b1b-bdbe-4c8613d81a48",
+              "title": "Modal",
+              "order": 2
+            },
+            {
+              "path": "/components/feedback/alert",
+              "visible": true,
+              "children": [],
+              "id": "091f9d11-6145-4457-b306-6dfaba3f8b77",
+              "title": "Alert",
+              "key": "alert",
+              "order": 3
+            },
+            {
+              "path": "/components/feedback/spinner",
+              "visible": true,
+              "children": [],
+              "id": "f6f3b082-5c65-4649-8866-c45b220ce7f4",
+              "title": "Spinner",
+              "key": "spinner",
+              "order": 4
+            }
+          ],
+          "id": "32e86756-5b8f-44dc-80e8-6710d67c7869",
+          "title": "Feedback",
+          "order": 3
+        },
+        {
+          "path": "/components/contents",
+          "children": [
+            {
+              "path": "/components/contents/tag",
+              "children": [],
+              "id": "15944ac8-6b8d-4f40-8205-91b44c5823c6",
+              "title": "Tag",
+              "order": 1
+            },
+            {
+              "path": "/components/contents/tooltip",
+              "children": [],
+              "id": "998e6ab7-d196-491f-8e6a-f188b5c2f2ac",
+              "title": "Tooltip",
+              "order": 2
+            },
+            {
+              "path": "/components/contents/pagination",
+              "children": [],
+              "id": "5e7bc051-4e98-4bed-be5f-822c2664032a",
+              "title": "Pagination",
+              "order": 2
+            },
+            {
+              "path": "/components/contents/tree",
+              "children": [],
+              "id": "8eb4da75-8f5b-476e-8ba9-b9ada5c736a3",
+              "title": "Tree",
+              "order": 3
+            },
+            {
+              "path": "/components/contents/image-gallery",
+              "children": [],
+              "id": "8eb4da75-8f5b-476e-8ba9-b9ada5c736a4",
+              "title": "ImageGallery",
+              "order": 4
+            }
+          ],
+          "id": "f7b6cf9e-d58f-453e-8e41-ff2f180a5e6f",
+          "title": "Contents",
+          "order": 4
+        },
+        {
+          "path": "/components/navigation",
+          "children": [
+            {
+              "path": "/components/navigation/tab",
+              "children": [],
+              "id": "b50599c7-b565-4442-a4c7-303becccd0b2",
+              "title": "Tab",
+              "order": 0
+            },
+            {
+              "path": "/components/navigation/VerticalTab",
+              "children": [],
+              "id": "43204822-b894-40ee-abe0-67b018ae06af",
+              "title": "Vertical Tab",
+              "order": 1
+            }
+          ],
+          "id": "ce7cf9a6-d774-426f-ada8-10f708087e4b",
+          "title": "Navigation",
+          "order": 5
+        },
+        {
+          "path": "/components/selection",
+          "children": [
+            {
+              "path": "/components/selection/checkbox",
+              "children": [],
+              "id": "d98f22b4-9bca-42e3-baf5-f03136a20700",
+              "title": "Checkbox",
+              "order": 0
+            },
+            {
+              "path": "/components/selection/radio-button",
+              "children": [],
+              "id": "b96556c1-ad01-4a51-835f-42b5cfb1c3e5",
+              "title": "Radio Button",
+              "order": 1
+            },
+            {
+              "path": "/components/selection/slider",
+              "children": [],
+              "id": "e7aa1bb6-8a9e-4901-ab3b-d43231f53a07",
+              "title": "Slider",
+              "order": 2
+            },
+            {
+              "path": "/components/selection/toggle",
+              "children": [],
+              "id": "ae95f66a-7186-42bc-b93f-207afb6de2f2",
+              "title": "Toggle",
+              "order": 3
+            },
+            {
+              "path": "/components/selection/chip",
+              "children": [],
+              "id": "2d18ee67-82e4-4894-b208-9feebd641a0f",
+              "title": "Chip",
+              "order": 4
+            },
+            {
+              "path": "/components/selection/calendar",
+              "children": [],
+              "id": "2d18ee67-82e4-4894-b208-9feebd641123",
+              "title": "Calendar",
+              "order": 5
+            },
+            {
+              "path": "/components/selection/upload",
+              "children": [],
+              "id": "9418c453-8195-4c91-8239-cb57d2193313",
+              "title": "Upload",
+              "order": 6
+            }
+          ],
+          "id": "77274b0c-ba6e-4d0f-a260-ecac4d92b1a7",
+          "title": "Selection",
+          "order": 6
+        },
+        {
+          "path": "/components/text-input/input",
+          "children": [
+            {
+              "path": "/components/text-input/input",
+              "children": [],
+              "id": "70cd502c-ee1e-414d-9d91-b4f01676deb7",
+              "title": "Input",
+              "order": 0
+            },
+            {
+              "path": "/components/text-input/search",
+              "children": [],
+              "id": "f5412bb2-5da1-481f-ace9-06e22d236a01",
+              "title": "Search",
+              "order": 1
+            },
+            {
+              "path": "/components/text-input/textarea",
+              "children": [],
+              "id": "6102f451-a558-4cee-9f84-defe7827a4ff",
+              "title": "Textarea",
+              "order": 2
+            }
+          ],
+          "id": "e6f70ec8-268b-4947-9e5e-6333a4896ba3",
+          "title": "Text Input",
+          "order": 7
+        }
+      ],
+      "id": "b47bd783-cad6-4257-9bec-6226b4fe93ed",
+      "title": "Components",
+      "order": 2
+    },
+    {
+      "children": [
+        {
+          "path": "/data-visualization/bar-chart",
+          "children": [],
+          "id": "bda58b6a-7eef-4f9a-bcfc-fb6b30daf889",
+          "title": "Bar Chart",
+          "order": 1
+        },
+        {
+          "path": "/data-visualization/column-chart",
+          "children": [],
+          "id": "ea1cc62d-3843-4079-a8e4-f2902b96d6ef",
+          "title": "Column Chart",
+          "order": 2
+        },
+        {
+          "path": "/data-visualization/line-chart",
+          "children": [],
+          "id": "2ee91015-52f0-4f19-b9e1-02ce179d68dd",
+          "title": "Line Chart",
+          "order": 3
+        },
+        {
+          "path": "/data-visualization/combo-chart",
+          "children": [],
+          "id": "bba006e9-b370-4d30-9934-237aaed8546b",
+          "title": "Combo Chart",
+          "order": 4
+        },
+        {
+          "path": "/data-visualization/pie-chart",
+          "children": [],
+          "id": "d6f709b7-f89e-4ed1-824e-7fe67420457f",
+          "title": "Pie Chart",
+          "order": 5
+        },
+        {
+          "path": "/data-visualization/scatter-chart",
+          "children": [],
+          "id": "a4503779-03dd-41ed-aa5e-dd48178a3004",
+          "title": "Scatter Chart",
+          "order": 6
+        },
+        {
+          "path": "/data-visualization/radar-chart",
+          "children": [],
+          "id": "6391690c-c4be-45b8-9bff-29e2903d3495",
+          "title": "Radar Chart",
+          "order": 7
+        }
+      ],
+      "id": "301c7764-830b-4cc5-a093-4321d29394823",
+      "title": "Data Visualization",
+      "order": 3,
+      "path": "/data-visualization/overview/color"
+    },
+    {
+      "path": "",
+      "children": [
+        {
+          "path": "",
+          "children": [],
+          "id": "bda58b6a-7eef-4f9a-bcfc-fb6b30daf777",
+          "title": "WidgetUI",
+          "order": 1
+        },
+        {
+          "path": "",
+          "children": [],
+          "id": "bda58b6a-7eef-4f9a-bcfc-fb6b30daf999",
+          "title": "Table",
+          "order": 2
+        }
+      ],
+      "id": "bda58b6a-7eef-4f9a-bcfc-fb6b30daf234",
+      "title": "Other",
+      "order": 4
+    }
+  ]
+}

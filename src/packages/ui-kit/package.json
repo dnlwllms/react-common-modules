@@ -1,0 +1,42 @@
+{
+  "name": "@dnlwllms/ui-kit",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/types/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig-esm.json && tsc -p tsconfig-cjs.json && cp style.css dist && cp -r lotties dist/cjs && cp -r lotties dist/esm"
+  },
+  "peerDependencies": {
+    "styled-components": "^6.1.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@egjs/react-flicking": "^4.11.2",
+    "@lottiefiles/react-lottie-player": "^3.5.3",
+    "@types/navermaps": "^3.6.5",
+    "chart.js": "^4.3.3",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "date-fns": "^2.30.0",
+    "lodash": "^4.17.21",
+    "prismjs": "^1.29.0",
+    "react-error-boundary": "^4.0.11",
+    "react-simple-code-editor": "^0.13.1",
+    "sucrase": "^3.34.0",
+    "uuid": "^9.0.1",
+    "xlsx": "^0.18.5"
+  },
+  "publishConfig": {
+    "@dnlwllms:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnlwllms/react-common-modules.git"
+  }
+}

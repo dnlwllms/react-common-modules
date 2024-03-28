@@ -1,0 +1,119 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/static/pretendard.css");
+
+:root {
+  --primary-primary-100: #ff94a9;
+  --primary-primary-200: #ff7a94;
+  --primary-primary-300: #ff617f;
+  --primary-primary-400: #ff476a;
+  --primary-primary-500: #ff2d55;
+  --primary-primary-600: #f91a45;
+  --primary-primary-700: #ed0c38;
+  --primary-primary-800: #d01136;
+  --primary-primary-900: #b31433;
+
+  --gray-gray-100: #fafafa;
+  --gray-gray-200: #eeeeee;
+  --gray-gray-300: #dddddd;
+  --gray-gray-400: #bbbbbb;
+  --gray-gray-500: #999999;
+  --gray-gray-600: #777777;
+  --gray-gray-700: #555555;
+  --gray-gray-800: #333333;
+  --gray-gray-900: #111111;
+
+  --gray-white: #ffffff;
+  --gray-black: #000000;
+
+  --gray-dimmed-effect-black-100-d: rgba(0, 0, 0, 1);
+  --gray-dimmed-effect-black-95-d: rgba(0, 0, 0, 0.95);
+  --gray-dimmed-effect-black-90-d: rgba(0, 0, 0, 0.9);
+  --gray-dimmed-effect-black-85-d: rgba(0, 0, 0, 0.85);
+  --gray-dimmed-effect-black-80-d: rgba(0, 0, 0, 0.8);
+  --gray-dimmed-effect-black-75-d: rgba(0, 0, 0, 0.75);
+  --gray-dimmed-effect-black-70-d: rgba(0, 0, 0, 0.7);
+  --gray-dimmed-effect-black-65-d: rgba(0, 0, 0, 0.65);
+  --gray-dimmed-effect-black-60-d: rgba(0, 0, 0, 0.6);
+  --gray-dimmed-effect-black-55-d: rgba(0, 0, 0, 0.55);
+  --gray-dimmed-effect-black-50-d: rgba(0, 0, 0, 0.5);
+  --gray-dimmed-effect-black-45-d: rgba(0, 0, 0, 0.45);
+  --gray-dimmed-effect-black-40-d: rgba(0, 0, 0, 0.4);
+  --gray-dimmed-effect-black-35-d: rgba(0, 0, 0, 0.35);
+  --gray-dimmed-effect-black-30-d: rgba(0, 0, 0, 0.3);
+  --gray-dimmed-effect-black-25-d: rgba(0, 0, 0, 0.25);
+  --gray-dimmed-effect-black-20-d: rgba(0, 0, 0, 0.2);
+  --gray-dimmed-effect-black-15-d: rgba(0, 0, 0, 0.15);
+  --gray-dimmed-effect-black-10-d: rgba(0, 0, 0, 0.1);
+  --gray-dimmed-effect-black-05-d: rgba(0, 0, 0, 0.05);
+  --gray-dimmed-effect-black-00-d: rgba(0, 0, 0, 0);
+
+  --green-green-100: #72ee90;
+  --green-green-200: #5fe781;
+  --green-green-300: #4edf72;
+  --green-green-400: #3fd564;
+  --green-green-500: #34c759;
+  --green-green-600: #34ad52;
+  --green-green-700: #33944b;
+  --green-green-800: #317d44;
+  --green-green-900: #2d673c;
+
+  --blue-blue-100: #66afff;
+  --blue-blue-200: #4da2ff;
+  --blue-blue-300: #3395ff;
+  --blue-blue-400: #1a87ff;
+  --blue-blue-500: #007aff;
+  --blue-blue-600: #066ee0;
+  --blue-blue-700: #1462b8;
+  --blue-blue-800: #16569c;
+  --blue-blue-900: #174a82;
+
+  --red-red-100: #ff9a94;
+  --red-red-200: #ff817a;
+  --red-red-300: #ff6961;
+  --red-red-400: #ff5147;
+  --red-red-500: #ff3b30;
+  --red-red-600: #f9261a;
+  --red-red-700: #ed190c;
+  --red-red-800: #d01b11;
+  --red-red-900: #b31c14;
+
+  --orange-orange-100: #ffbf66;
+  --orange-orange-200: #ffb54d;
+  --orange-orange-300: #ffaa33;
+  --orange-orange-400: #ffa01a;
+  --orange-orange-500: #ff9500;
+  --orange-orange-600: #e08506;
+  --orange-orange-700: #c2750a;
+  --orange-orange-800: #a5660d;
+  --orange-orange-900: #8a570f;
+
+  --data-data-01: #464f69;
+  --data-data-02: #af52de;
+  --data-data-03: #5856d6;
+  --data-data-04: #007aff;
+  --data-data-05: #5ac8fa;
+  --data-data-06: #34c759;
+  --data-data-07: #8ad74e;
+  --data-data-08: #ffcc00;
+  --data-data-09: #ff9500;
+  --data-data-10: #ff3b30;
+
+  --plus-plus-100: #ff9a94;
+  --plus-plus-200: #ff817a;
+  --plus-plus-300: #ff6961;
+  --plus-plus-400: #ff5147;
+  --plus-plus-500: #ff3b30;
+  --plus-plus-600: #f9261a;
+  --plus-plus-700: #ed190c;
+  --plus-plus-800: #d01b11;
+  --plus-plus-900: #b31c14;
+
+  --minus-minus-100: #66afff;
+  --minus-minus-200: #4da2ff;
+  --minus-minus-300: #3395ff;
+  --minus-minus-400: #1a87ff;
+  --minus-minus-500: #007aff;
+  --minus-minus-600: #066ee0;
+  --minus-minus-700: #1462b8;
+  --minus-minus-800: #16569c;
+  --minus-minus-900: #174a82;
+}

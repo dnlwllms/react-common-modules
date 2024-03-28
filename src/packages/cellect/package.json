@@ -1,0 +1,29 @@
+{
+  "name": "@dnlwllms/cellect",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/types/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig-esm.json && tsc -p tsconfig-cjs.json"
+  },
+  "peerDependencies": {
+    "styled-components": "^6.1.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "@dnlwllms/ui-kit": "^1.0.0"
+  },
+  "publishConfig": {
+    "@dnlwllms:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnlwllms/react-modules.git"
+  }
+}
